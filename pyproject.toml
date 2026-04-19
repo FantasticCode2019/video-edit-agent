@@ -36,6 +36,7 @@ dependencies = [
     "ffmpeg-python==0.2.0",
     "Pillow==12.2.0",
     "pydub==0.25.1",
+    "pymediainfo==7.0.1",
 ]
 
 [project.optional-dependencies]
