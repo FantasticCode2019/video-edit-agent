@@ -225,3 +225,7 @@ AgentTool(
 ```
 
 在 OpenHarness TUI 中，用户直接描述需求，主 Agent 自动选择合适的 sub-agent 执行。
+
+## Friendly Links
+
+[![LINUXDO](https://img.shields.io/badge/%E7%A4%BE%E5%8C%BA-LINUXDO-0086c9?style=for-the-badge&labelColor=555555)](https://linux.do)
